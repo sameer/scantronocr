@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_60-b27 (Oracle Corporation)
+Class-Path: lib/uk.co.mmscomputing.device.twain.jar lib/uk.co.mmscompu
+ ting.device.sane.jar lib/poi-3.12-20150511.jar lib/commons-codec-1.9.
+ jar lib/commons-logging-1.1.3.jar lib/junit-4.12.jar lib/log4j-1.2.17
+ .jar lib/xmlbeans-2.6.0.jar lib/poi-ooxml-3.12-20150511.jar lib/poi-e
+ xamples-3.12-20150511.jar lib/poi-excelant-3.12-20150511.jar lib/poi-
+ ooxml-schemas-3.12-20150511.jar lib/poi-scratchpad-3.12-20150511.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: me.sameer.main.Jobber
+

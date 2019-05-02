@@ -1,0 +1,15 @@
+bubble_space: 33
+id_space: 33
+row_one_startx: 154
+row_one_starty: 160
+row_division: 67
+row_two_startx: 395
+row_two_starty: 196
+id_startx: 554
+id_starty: 1068
+bubble_radius: 23
+row_three_startx: 0
+row_three_starty: 0
+row_four_startx: 0
+row_four_starty: 0
+threshold: 210
